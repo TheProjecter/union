@@ -1,0 +1,3 @@
+Do you ever wish access to all your remote sessions could be brought together in one place?  Are you tired of opening a different program for remote desktop, vnc, ssh, or any other remote access protocol?
+
+Union brings those access paths together.  From one application you can launch any remote access program.  Union aims to be simple, highly configurable, and plugin oriented.  If there's an application that is not yet supported by Union it is simple to create a new one.
